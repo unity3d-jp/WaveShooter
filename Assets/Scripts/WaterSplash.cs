@@ -1,9 +1,9 @@
 ﻿/* -*- mode:CSharp; coding:utf-8-with-signature -*-
  */
 
-#if UNITY_IPHONE || UNITY_ANDROID || UNITY_PS4 || UNITY_SWITCH || UNITY_EDITOR
-# define NOT_RECOMENDED_OPTIMIZATION
-#endif
+// #if UNITY_IPHONE || UNITY_ANDROID || UNITY_PS4 || UNITY_SWITCH || UNITY_EDITOR
+// # define NOT_RECOMENDED_OPTIMIZATION
+// #endif
 
 using UnityEngine;
 using System.Collections;
