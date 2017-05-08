@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6AC36CEC60E1EE7D0CAFBFECDE01C699D88B5FF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "674F68A35CC530C83FA532CCC9BCDF7C97A6ED1A" : 9223372036854775807,
+    "6AC36CEC60E1EE7D0CAFBFECDE01C699D88B5FF6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A4022AD3-EC98-4656-9192-4A049F1F1B39",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "674F68A35CC530C83FA532CCC9BCDF7C97A6ED1A" : "megademo01\/",
+    "6AC36CEC60E1EE7D0CAFBFECDE01C699D88B5FF6" : "PluginBasedProject2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UnityPlugin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PluginProjects\/OSX\/UnityPlugin\/UnityPlugin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yuji\/Dropbox\/gitrepos\/megademo01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "674F68A35CC530C83FA532CCC9BCDF7C97A6ED1A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yuji\/Dropbox\/gitrepos\/PluginBasedProject2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6AC36CEC60E1EE7D0CAFBFECDE01C699D88B5FF6"
+    }
+  ]
+}

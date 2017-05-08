@@ -1,0 +1,1 @@
+skybox.png is derived from textures which belong to Standard Assets in Unity4.
