@@ -9,4 +9,4 @@ It works with mobile, desktop, and console.
 (C) Unity Technologies Japan/UCL
 This demo is made to use Unite 2017 Tokyo.
 
-![](http://imgur.com/a/ycx1n)
+![](http://i.imgur.com/pu91KMT.jpg)
