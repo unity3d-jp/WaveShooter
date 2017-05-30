@@ -86,14 +86,14 @@ public class BeamTest : MonoBehaviour {
 	{
 		Beam.Instance.init(material_);
 		StartCoroutine(loop());
-        BeamRenderer.Instance.init(Beam.Instance);
-   	}
+		BeamRenderer.Instance.init(Beam.Instance);
+	}
 
-   	void Update()
- 	{
-        Beam.Instance.render(0);
-  	}
-  }
+	void Update()
+	{
+		Beam.Instance.render(0);
+	}
+}
 
 
 } // namespace UTJ {
